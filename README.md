@@ -3,11 +3,9 @@ goldendriver/goldendriver is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 # 💫About Me :
-- 👋 I'm Lye KaiMing. 
 - 👀 I'm interested in full stack and blockchain development.
 - 🌱 I’m currently learning blockchain application.
 - 💞️ I’m looking to collaborate on sensitive teammates.
-- 📫 goldendriver0731@gmail.com
 
 ## 🌐Socials
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@golden) 
